@@ -1,0 +1,2 @@
+# CullingBuddy
+Discord bot
